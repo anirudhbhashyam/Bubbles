@@ -11,7 +11,10 @@ const palette = [
     "#6bab90",
     "#a5243d",
     "#decbb7",
-    "#ffad69"
+    "#ffad69",
+    "#1f363d",
+    "#b5aa9d",
+    "#ffa5ab"
 ];
 
 class Circle {
@@ -66,7 +69,7 @@ class Circle {
 let circles = [];
 
 function setup() {
-    for (let i = 0; i < 6; i++) {
+    for (let i = 0; i < 10; i++) {
         const r = 50;
         const x = Math.random() * (canvas.width - r);
         const y = Math.random() * (canvas.height - r);
