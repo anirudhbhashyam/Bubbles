@@ -2,4 +2,7 @@
 A soothing animation in `canvas`.
 
 # Usage
-Host the HTML file on a server. Move the bubbles around.
+Host `index.html` on a server.
+
+# Live
+Live link: [Github Pages](https://anirudhbhashyam.github.io/Bubbles/)
